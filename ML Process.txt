@@ -1,0 +1,39 @@
+1. Problem Understanding
+2. Load Dataset
+3. Understand Data
+4. Missing Values Check
+5. Duplicate Check
+6. Univariate Analysis
+   - Histogram
+   - Boxplot
+   - Countplot
+
+7. Bivariate Analysis
+   - Scatterplot
+   - Boxplot
+   - Barplot
+
+8. Multivariate Analysis
+   - Pairplot
+   - Heatmap
+
+9. Data Cleaning
+10. Missing Value Treatment
+11. Outlier Treatment
+12. Feature Engineering
+13. Encoding
+14. Scaling
+15. Correlation Analysis
+16. PCA
+17. Train-Test Split
+18. Model Training
+19. Evaluation
+   - Confusion Matrix
+   - ROC Curve
+   - Precision Recall
+
+20. Compare Models
+21. Hyperparameter Tuning
+22. Final Model
+23. Save Model
+24. Deployment
